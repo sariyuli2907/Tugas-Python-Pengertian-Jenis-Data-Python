@@ -1,4 +1,4 @@
-# Pengertian-Jenis-Data-Python
+# Pengertian-Dasar-Jenis-Data-Python
 #### Pengenalan Dasar serta Jenis Data pada Python
 #
 ## Use Case Summary
