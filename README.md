@@ -1,10 +1,7 @@
 # Tugas-Python-Pengertian-Jenis-Data-Python
-
-## Tugas-Kelompok Matplotlib-Python
-
 #### Pengenalan Dasar serta Jenis Data pada Python
 
-### Use Case Summary
+## Use Case Summary
 #### Objective Statement :
 ##### 1. Memperoleh pengetahuan mengenai tipe-tipe data dan penggunaannya pada bahasa pemrograman Python
 ##### 2. Mendapatkan pengetahuan dasar untuk membuat variabel, mencetak variabel atau objek pada layar, dan cara mengetahui tipe data yang digunakan
