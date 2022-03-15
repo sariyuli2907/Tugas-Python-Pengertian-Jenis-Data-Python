@@ -1,6 +1,6 @@
 # Tugas-Python-Pengertian-Jenis-Data-Python
 #### Pengenalan Dasar serta Jenis Data pada Python
-
+#
 ## Use Case Summary
 #### Objective Statement :
 ##### 1. Memperoleh pengetahuan mengenai tipe-tipe data dan penggunaannya pada bahasa pemrograman Python
@@ -8,11 +8,11 @@
 ##### 3. Memperoleh contoh penulisan syntax masing-masing tipe data pada Python
 ##### 4. Memperoleh pengetahuan mengenai perbedaan masing-masing tipe data pada Python
 ##### 5. Mendapatkan pengetahuan dasar mengenai operasi pada beberapa tipe data Python
-
+#
 ### Tantangan :
 ##### 1. Kesalahan penulisan syntax
 ##### 2. Perbedaan penggunaan masing-masing tipe data
-
+#
 ### Hasil yang Diharapkan :
 ##### 1. Penjelasan penggunaan masing-masing tipe data dari Python
 ##### 2. Penjelasan penggunaan masing-masing tipe data dari Python
@@ -20,7 +20,7 @@
 ##### 4. Contoh cara menampilkan objek pada layar
 ##### 5. Contoh cara mengecek tipe data yang digunakan
 ##### 6. Contoh penggunaan operasi aritmatika pada tipe data dalam Python
-
+#
 ### Manfaat :
 ##### 1. Sebagai bahan dasar pembelajaran bahasa Python untuk pemula
 ##### 2. Menambah wawasan agar lebih mengetahui perbedaan tipe data pada bahasa pemrograman Python dengan bahasa pemrograman lain
